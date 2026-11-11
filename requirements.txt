@@ -1,0 +1,10 @@
+# Entorno recomendado: Python 3.11+
+
+pandas>=2.2,<4.0
+numpy>=2.0,<3.0
+geopandas>=1.0
+matplotlib>=3.8
+mapclassify>=2.8
+python-calamine>=0.3
+jupyterlab>=4.0
+ipykernel>=6.0
